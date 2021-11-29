@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Layout</string>
+    <string name="text_view_layout_workou">Layout Workou</string>
+    <string name="button_just_do_it">Just do it</string>
+</resources>
